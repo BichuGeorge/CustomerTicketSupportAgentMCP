@@ -1,0 +1,8 @@
+euriai
+streamlit
+python-dotenv
+pandas
+langchain
+fastmcp
+gspread
+oauth2client
